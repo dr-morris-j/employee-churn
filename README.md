@@ -1,5 +1,5 @@
 # employee-churn
-Employee turnover analysis
+Employee Attrition Analysis
 
 The purpose of this case study was to determine the factors which impact employee churn, then to use those factors and predict the likelihood of an employee leaving the company. 
 
