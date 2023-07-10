@@ -20,3 +20,17 @@ The results revealed that, while there were no perfectly correlated features, th
 
 Random forest analysis suggests that overtime is the leading cause of attrition. 
 The full analysis is viewable within the Jupyter Notebook.
+
+### About the data.
+
+The data is the IBM HR Analytics Employee Attrition & Performance dataset. This is a fictional dataset made by IBM Data Scientists and has 1470 rows across 35 columns.
+
+The full dataset is available [here](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset).
+
+### Tools Used.
+
++ Python
++ Sci-kit Learn Random Forest Classifier
++ Seaborn Heatmap
++ Kaggle
++ Jupyter Notebook
